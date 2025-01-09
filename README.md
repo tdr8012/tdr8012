@@ -1,6 +1,5 @@
 👋 Hi there!
-I’m Thai Duy Roan, a passionate Vietnamese Junior Developer 🚀
-🌟 Aspiring to make an impact with code!
+I’m Thai Duy Roan, an inspired Vietnamese Junior Developer 🌟 Aspiring to make an impact with code!
 
 - 🔍 Actively seeking an Internship Opportunity for Summer 2025.
 - 💻 Currently exploring the React and Node.js ecosystems.
@@ -32,5 +31,4 @@ I’m Thai Duy Roan, a passionate Vietnamese Junior Developer 🚀
 
 
 ---
-💡 Let’s create something amazing together!
-✨ Feel free to reach out—I’m always excited to learn and collaborate! 🌟
+💡 Let’s create something amazing together! Feel free to reach out—I’m always excited to learn and collaborate!
