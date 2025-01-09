@@ -1,16 +1,19 @@
-## Hi there 👋
+👋 Hi there!
+I’m Thai Duy Roan, a passionate Vietnamese Junior Developer 🚀
+🌟 Aspiring to make an impact with code!
 
-<!--
-**tdr8012/tdr8012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔍 Actively seeking an Internship Opportunity for Summer 2025.
+- 💻 Currently exploring the React and Node.js ecosystems.
+- 🌏 Open to collaborating on exciting, real-world projects.
+- 📫 To contact me:
+  - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thai-duy-roan-01238424b/)
+  - Gmail: duy.roan@gmail.com
 
-Here are some ideas to get you started:
+---
+### 🎯 My Tech Toolbox 🧰
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;"> <img alt="Java" title="Java" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/> <img alt="Swift" title="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/> <img alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/> <img alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/> <img alt="JavaScript" title="JavaScript" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg"/> <img alt="Python" title="Python" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg"/> <img alt="C++" title="C++" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg"/> <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/> <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/> <img alt="Android Studio" title="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/> <img alt="Xcode" title="Xcode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/> <img alt="SQL Server" title="SQL Server Management Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/> </div>
+
+---
+💡 Let’s create something amazing together!
+✨ Feel free to reach out—I’m always excited to learn and collaborate! 🌟
