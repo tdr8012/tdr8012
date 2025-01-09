@@ -10,7 +10,7 @@ I’m Thai Duy Roan, a passionate Vietnamese Junior Developer 🚀
   - Gmail: duy.roan@gmail.com
 
 ---
-### 🎯 My Tech Toolbox 🧰
+### My Languages & Toolbox 🧰
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
   <img alt="Swift" title="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
