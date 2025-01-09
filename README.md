@@ -23,7 +23,7 @@ I’m Thai Duy Roan, a passionate Vietnamese Junior Developer 🚀
   <img alt="Git" title="Git" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/>
   <img alt="GitHub" title="GitHub" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/>
   <img alt="Android Studio" title="Android Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg"/>
-  <img alt="Xcode" title="Xcode" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg"/>
+  <img alt="Xcode" title="Xcode" width="50px" src="https://developer.apple.com/assets/elements/icons/xcode/xcode-128x128_2x.png"/>
   <img alt="SQL Server" title="SQL Server Management Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"/>
   <img alt="Visual Studio Code" title="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img alt="Visual Studio" title="Visual Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
