@@ -27,6 +27,8 @@ I’m Thai Duy Roan, an inspired Vietnamese Junior Developer 🌟 Aspiring to ma
   <img alt="Visual Studio Code" title="Visual Studio Code" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
   <img alt="Visual Studio" title="Visual Studio" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg"/>
   <img alt="IntelliJ IDEA" title="IntelliJ IDEA" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg"/>
+  <img alt="Microsoft" title="Microsoft" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/4/44/Microsoft_logo.svg"/>
+
 </div>
 
 
