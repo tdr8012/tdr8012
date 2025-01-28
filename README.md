@@ -7,6 +7,7 @@ I’m Thai Duy Roan, an inspired Vietnamese Junior Developer 🌟 Aspiring to ma
 - 📫 To contact me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thai-duy-roan-01238424b/)
   - Gmail: duy.roan@gmail.com
+- To know more about me: https://tdr8012.github.io/Duy_Portfolio/
 
 ---
 ### My Languages & Tools 🧰
