@@ -13,6 +13,7 @@ I’m Thai Duy Roan, an inspired Vietnamese Junior Developer 🌟 Aspiring to ma
 ### My Languages & Tools 🧰
 
 <div style="display: flex; flex-wrap: wrap; align-items: center; gap: 15px;">
+  <img alt="React" title="React" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"/>
   <img alt="Swift" title="Swift" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg"/>
   <img alt="HTML" title="HTML" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
   <img alt="CSS" title="CSS" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>
