@@ -1,8 +1,7 @@
 👋 Hi there!
 I’m Thai Duy Roan, an inspired Vietnamese Junior Developer 🌟 Aspiring to make an impact with code!
 
-- 🔍 Actively seeking an Internship Opportunity for Summer 2025.
-- 💻 Currently exploring the React and Node.js ecosystems.
+- 💻 Currently exploring the BitPlatform and Blazor ecosystems.
 - 🌏 Open to collaborating on exciting, real-world projects.
 - 📫 To contact me:
   - [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/thai-duy-roan-01238424b/)
